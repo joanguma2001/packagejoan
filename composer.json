@@ -1,0 +1,11 @@
+{
+  "require": {
+    "guma/1":"dev-master@dev"
+  },
+  "repositories": [
+    {
+       "type": "vcs",
+       "url": "https://github.com/joanguma2001/package1joanguma" 
+    }
+  ]
+}
